@@ -1,6 +1,6 @@
 /* Bakgrundsfärg och typsnitt */
 body {
-    background-color: § #eecc5e;
+    background-color: § #eecc5
     /* Ljus gulaktig färg */
     font-family: Verdana, sans-serif;
     /* Ändra alla fonter till Verdana, sans-serif */
@@ -52,7 +52,7 @@ h1 {
 p {
     color: #000000;
     /* Ändra textfärgen till svart */
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     line-height: 1.6;
     /* Lägg till lite radavstånd för bättre läsbarhet */
 }
